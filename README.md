@@ -175,16 +175,16 @@ ORDER BY total_profit DESC;
 
 - **Customer Behavior**: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.<br>
                          The top 5 most loyal customers (by transaction count) are identified, showcasing repeat buyers.<br>
-                        . Female customers tend to have a slightly higher average spending compared to male customers.<br>
-                        . High-value customers (those spending more than the average) are identified, highlighting potential targets for loyalty programs.
-- **Sales Performance**: The best-selling category by revenue provides insights into the most profitable product line.
-                         Slow-moving categories are identified to help optimize inventory and marketing efforts.
+                        Female customers tend to have a slightly higher average spending compared to male customers.<br>
+                        High-value customers (those spending more than the average) are identified, highlighting potential targets for loyalty programs.
+- **Sales Performance**: The best-selling category by revenue provides insights into the most profitable product line.<br>
+                         Slow-moving categories are identified to help optimize inventory and marketing efforts.<br>
                          Monthly analysis reveals seasonal sales patterns and average monthly revenue.
-- **Trend Identification**: Peak sales hours (most transactions) occur during specific time frames, allowing for better staff allocation and promotions.
+- **Trend Identification**: Peak sales hours (most transactions) occur during specific time frames, allowing for better staff allocation and promotions.<br>
                             Repeat buyers are analyzed to evaluate customer retention rates and drive loyalty campaigns.
 
-- **Profitability Insights**: The most profitable transactions are highlighted, identifying which deals yield the highest margins.
-                              Category-wise profit analysis reveals which product lines generate the most profit and average margins.
+- **Profitability Insights**: The most profitable transactions are highlighted, identifying which deals yield the highest margins.<br>
+                              Category-wise profit analysis reveals which product lines generate the most profit and average margins.<br>
                               Sales by time shifts (morning, afternoon, evening) provide insights into when the business is most profitable.
 
 ## Reports
