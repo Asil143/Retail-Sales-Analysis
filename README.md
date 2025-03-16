@@ -174,7 +174,7 @@ ORDER BY total_profit DESC;
 ## Findings
 
 - **Customer Behavior**: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
--                        The top 5 most loyal customers (by transaction count) are identified, showcasing repeat buyers.
+                        The top 5 most loyal customers (by transaction count) are identified, showcasing repeat buyers.
                          Female customers tend to have a slightly higher average spending compared to male customers.
                          High-value customers (those spending more than the average) are identified, highlighting potential targets for loyalty programs.
 - **Sales Performance**: The best-selling category by revenue provides insights into the most profitable product line.
